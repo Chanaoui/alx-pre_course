@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+#!/bin/bash
+=======
 #!/bin/bash 
 echo "School"
+>>>>>>> f3e6f3d9d725f600fb3f610155fdd9bcd7596788
+The school is open!
